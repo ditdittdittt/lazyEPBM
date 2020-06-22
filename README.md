@@ -36,7 +36,7 @@ function autoEPBM(jumlah_dosen, kesan){
 * count number of *dosen*/lecturers
 * rate it ! (1,2,3)
 * type `autoEPBM(jumlah_dosen, kesan)`
-* e.g `hackEPBM(4, 3)`
+* e.g `autoEPBM(4, 3)`
 * Submit and Enjoy
 
 | Kesan         | Random-Choose                         |
